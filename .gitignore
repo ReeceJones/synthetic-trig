@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/synthetic-trig
+synthetic-trig.so
+synthetic-trig.dylib
+synthetic-trig.dll
+synthetic-trig.a
+synthetic-trig.lib
+synthetic-trig-test-*
+*.exe
+*.o
+*.obj
+*.lst
